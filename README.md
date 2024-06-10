@@ -1,6 +1,6 @@
 # Demo
 
-![](https://dosya.hizliresim.com/PRacxEUovXXoeUx/preview)
+![](https://dosya.hizliresim.com/PRacxEUovXXoeUx/file)
 
 
 # License
