@@ -1,6 +1,6 @@
 # Demo
 
-![alt text](https://hizliresim.com/8dw4icf)
+![alt text]([https://hizliresim.com/8dw4icf](https://dosya.hizliresim.com/PRacxEUovXXoeUx/preview))
 
 
 # Install
