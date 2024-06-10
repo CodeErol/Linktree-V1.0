@@ -1,3 +1,3 @@
 
 # License
-Distributed under the MIT license. See [LICENSE](httpsgithub.comardacarofficiallinks-websiteblobmainLICENSE LICENSE) file for more information.
+Distributed under the MIT license. See [LICENSE](https://github.com/CodeErol/Linktree-V1.0/blob/main/LICENSE.txt) file for more information.
